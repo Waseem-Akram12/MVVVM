@@ -1,0 +1,8 @@
+package com.example.mvvvm.viewmodel
+
+import androidx.lifecycle.ViewModel
+
+class MainViewModel: ViewModel() {
+
+
+}
